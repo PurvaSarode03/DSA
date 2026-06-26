@@ -154,7 +154,7 @@ def generate_readme(repo_path, output_path=None):
         problems = sorted(topic_map[topic], key=lambda x: x["num"])
         for p in problems:
             emoji = DIFFICULTY_EMOJI.get(p["difficulty"], "⚪")
-            lc_url = f"https://leetcode.com/problems/{extract_slug(p['folder'])}/"
+           
             gh_link = f"[📁 Code](https://github.com/PurvaSarode03/DSA/tree/main/{p['folder']})"
             lines.append(f"- {emoji} [{p['title']}]({lc_url}) {gh_link}")
         lines.append("")
