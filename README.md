@@ -21,24 +21,24 @@
 
 ## Array
 
-- 🟢 [Two Sum](https://leetcode.com/problems/two-sum/) [📁 Code](./0001-two-sum)
-- 🟢 [Remove Element](https://leetcode.com/problems/remove-element/) [📁 Code](./0027-remove-element)
-- 🟢 [Search Insert Position](https://leetcode.com/problems/search-insert-position/) [📁 Code](./0035-search-insert-position)
-- 🟢 [Plus One](https://leetcode.com/problems/plus-one/) [📁 Code](./0066-plus-one)
+- 🟢 [Two Sum](https://leetcode.com/problems/two-sum/) [📁 Code](https://github.com/PurvaSarode03/DSA/tree/main/0001-two-sum)
+- 🟢 [Remove Element](https://leetcode.com/problems/remove-element/) [📁 Code](https://github.com/PurvaSarode03/DSA/tree/main/0027-remove-element)
+- 🟢 [Search Insert Position](https://leetcode.com/problems/search-insert-position/) [📁 Code](https://github.com/PurvaSarode03/DSA/tree/main/0035-search-insert-position)
+- 🟢 [Plus One](https://leetcode.com/problems/plus-one/) [📁 Code](https://github.com/PurvaSarode03/DSA/tree/main/0066-plus-one)
 
 ## Binary Search
 
-- 🟢 [Search Insert Position](https://leetcode.com/problems/search-insert-position/) [📁 Code](./0035-search-insert-position)
+- 🟢 [Search Insert Position](https://leetcode.com/problems/search-insert-position/) [📁 Code](https://github.com/PurvaSarode03/DSA/tree/main/0035-search-insert-position)
 
 ## Hash Table
 
-- 🟢 [Two Sum](https://leetcode.com/problems/two-sum/) [📁 Code](./0001-two-sum)
+- 🟢 [Two Sum](https://leetcode.com/problems/two-sum/) [📁 Code](https://github.com/PurvaSarode03/DSA/tree/main/0001-two-sum)
 
 ## Math
 
-- 🟢 [Palindrome Number](https://leetcode.com/problems/palindrome-number/) [📁 Code](./0009-palindrome-number)
-- 🟢 [Plus One](https://leetcode.com/problems/plus-one/) [📁 Code](./0066-plus-one)
+- 🟢 [Palindrome Number](https://leetcode.com/problems/palindrome-number/) [📁 Code](https://github.com/PurvaSarode03/DSA/tree/main/0009-palindrome-number)
+- 🟢 [Plus One](https://leetcode.com/problems/plus-one/) [📁 Code](https://github.com/PurvaSarode03/DSA/tree/main/0066-plus-one)
 
 ## Two Pointers
 
-- 🟢 [Remove Element](https://leetcode.com/problems/remove-element/) [📁 Code](./0027-remove-element)
+- 🟢 [Remove Element](https://leetcode.com/problems/remove-element/) [📁 Code](https://github.com/PurvaSarode03/DSA/tree/main/0027-remove-element)
