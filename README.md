@@ -25,6 +25,7 @@ Solving LeetCode problems daily to strengthen my fundamentals.
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/PurvaSarode03/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/PurvaSarode03/DSA/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/PurvaSarode03/DSA/tree/master/0069-sqrtx) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -39,6 +40,7 @@ Solving LeetCode problems daily to strengthen my fundamentals.
 | [0009-palindrome-number](https://github.com/PurvaSarode03/DSA/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/PurvaSarode03/DSA/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/PurvaSarode03/DSA/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/PurvaSarode03/DSA/tree/master/0069-sqrtx) |
 ## Two Pointers
 |  |
 | ------- |
