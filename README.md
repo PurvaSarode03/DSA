@@ -25,6 +25,7 @@ Solving LeetCode problems daily to strengthen my fundamentals.
 | [0217-contains-duplicate](https://github.com/PurvaSarode03/DSA/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/PurvaSarode03/DSA/tree/master/0283-move-zeroes) |
 | [0977-squares-of-a-sorted-array](https://github.com/PurvaSarode03/DSA/tree/master/0977-squares-of-a-sorted-array) |
+| [1929-concatenation-of-array](https://github.com/PurvaSarode03/DSA/tree/master/1929-concatenation-of-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -70,6 +71,7 @@ Solving LeetCode problems daily to strengthen my fundamentals.
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/PurvaSarode03/DSA/tree/master/0067-add-binary) |
+| [1929-concatenation-of-array](https://github.com/PurvaSarode03/DSA/tree/master/1929-concatenation-of-array) |
 ## Dynamic Programming
 |  |
 | ------- |
