@@ -21,6 +21,7 @@ Solving LeetCode problems daily to strengthen my fundamentals.
 | [0035-search-insert-position](https://github.com/PurvaSarode03/DSA/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/PurvaSarode03/DSA/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/PurvaSarode03/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/PurvaSarode03/DSA/tree/master/0136-single-number) |
 ## Binary Search
 |  |
 | ------- |
@@ -55,6 +56,7 @@ Solving LeetCode problems daily to strengthen my fundamentals.
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/PurvaSarode03/DSA/tree/master/0067-add-binary) |
+| [0136-single-number](https://github.com/PurvaSarode03/DSA/tree/master/0136-single-number) |
 ## Simulation
 |  |
 | ------- |
