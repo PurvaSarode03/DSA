@@ -23,6 +23,7 @@ Solving LeetCode problems daily to strengthen my fundamentals.
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/PurvaSarode03/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/PurvaSarode03/DSA/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/PurvaSarode03/DSA/tree/master/0217-contains-duplicate) |
+| [0283-move-zeroes](https://github.com/PurvaSarode03/DSA/tree/master/0283-move-zeroes) |
 ## Binary Search
 |  |
 | ------- |
@@ -53,6 +54,7 @@ Solving LeetCode problems daily to strengthen my fundamentals.
 | [0026-remove-duplicates-from-sorted-array](https://github.com/PurvaSarode03/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/PurvaSarode03/DSA/tree/master/0027-remove-element) |
 | [0202-happy-number](https://github.com/PurvaSarode03/DSA/tree/master/0202-happy-number) |
+| [0283-move-zeroes](https://github.com/PurvaSarode03/DSA/tree/master/0283-move-zeroes) |
 ## String
 |  |
 | ------- |
