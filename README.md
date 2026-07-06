@@ -36,6 +36,7 @@ Solving LeetCode problems daily to strengthen my fundamentals.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/PurvaSarode03/DSA/tree/master/0001-two-sum) |
+| [0202-happy-number](https://github.com/PurvaSarode03/DSA/tree/master/0202-happy-number) |
 ## Math
 |  |
 | ------- |
@@ -43,11 +44,13 @@ Solving LeetCode problems daily to strengthen my fundamentals.
 | [0066-plus-one](https://github.com/PurvaSarode03/DSA/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/PurvaSarode03/DSA/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/PurvaSarode03/DSA/tree/master/0069-sqrtx) |
+| [0202-happy-number](https://github.com/PurvaSarode03/DSA/tree/master/0202-happy-number) |
 ## Two Pointers
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/PurvaSarode03/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/PurvaSarode03/DSA/tree/master/0027-remove-element) |
+| [0202-happy-number](https://github.com/PurvaSarode03/DSA/tree/master/0202-happy-number) |
 ## String
 |  |
 | ------- |
