@@ -2,10 +2,6 @@
 
 Solving LeetCode problems daily to strengthen my fundamentals.
 
-# LeetCode Solutions 🚀
-
-Solving LeetCode problems daily to strengthen my fundamentals.
-
 - 💻 **Language:** Java
 
 - 🎯 **Goal:** Build strong problem-solving skills and master core DSA patterns — arrays, strings, two pointers, sliding window, hashing, and recursion — to crack technical interviews.
