@@ -12,7 +12,7 @@ class Solution {
 
 	public static int[] rotate(int[] nums, int k) {
 		int n = nums.length;
-		k = k % n;
+		k = k % n;       //if k is greater than n it throws array out of bond error
 		reverse(nums, 0, n - 1);
 		reverse(nums, 0, k - 1);
 		reverse(nums, k, n - 1);
