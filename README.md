@@ -22,6 +22,7 @@ Solving LeetCode problems daily to strengthen my fundamentals.
 | [0066-plus-one](https://github.com/PurvaSarode03/DSA/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/PurvaSarode03/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/PurvaSarode03/DSA/tree/master/0136-single-number) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/PurvaSarode03/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/PurvaSarode03/DSA/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/PurvaSarode03/DSA/tree/master/0283-move-zeroes) |
 | [0977-squares-of-a-sorted-array](https://github.com/PurvaSarode03/DSA/tree/master/0977-squares-of-a-sorted-array) |
@@ -32,6 +33,7 @@ Solving LeetCode problems daily to strengthen my fundamentals.
 | [0004-median-of-two-sorted-arrays](https://github.com/PurvaSarode03/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/PurvaSarode03/DSA/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/PurvaSarode03/DSA/tree/master/0069-sqrtx) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/PurvaSarode03/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -55,6 +57,7 @@ Solving LeetCode problems daily to strengthen my fundamentals.
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/PurvaSarode03/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/PurvaSarode03/DSA/tree/master/0027-remove-element) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/PurvaSarode03/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/PurvaSarode03/DSA/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/PurvaSarode03/DSA/tree/master/0283-move-zeroes) |
 | [0977-squares-of-a-sorted-array](https://github.com/PurvaSarode03/DSA/tree/master/0977-squares-of-a-sorted-array) |
