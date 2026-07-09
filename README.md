@@ -16,6 +16,7 @@ Solving LeetCode problems daily to strengthen my fundamentals.
 | ------- |
 | [0001-two-sum](https://github.com/PurvaSarode03/DSA/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/PurvaSarode03/DSA/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/PurvaSarode03/DSA/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/PurvaSarode03/DSA/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/PurvaSarode03/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/PurvaSarode03/DSA/tree/master/0027-remove-element) |
@@ -59,6 +60,7 @@ Solving LeetCode problems daily to strengthen my fundamentals.
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/PurvaSarode03/DSA/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/PurvaSarode03/DSA/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/PurvaSarode03/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/PurvaSarode03/DSA/tree/master/0027-remove-element) |
@@ -93,5 +95,9 @@ Solving LeetCode problems daily to strengthen my fundamentals.
 | [0075-sort-colors](https://github.com/PurvaSarode03/DSA/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/PurvaSarode03/DSA/tree/master/0217-contains-duplicate) |
 | [0977-squares-of-a-sorted-array](https://github.com/PurvaSarode03/DSA/tree/master/0977-squares-of-a-sorted-array) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/PurvaSarode03/DSA/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
 A collection of LeetCode questions to ace the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
