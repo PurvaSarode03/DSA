@@ -33,6 +33,7 @@ Solving LeetCode problems daily to strengthen my fundamentals.
 | [0977-squares-of-a-sorted-array](https://github.com/PurvaSarode03/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1470-shuffle-the-array](https://github.com/PurvaSarode03/DSA/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/PurvaSarode03/DSA/tree/master/1929-concatenation-of-array) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/PurvaSarode03/DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Binary Search
 |  |
 | ------- |
@@ -50,6 +51,7 @@ Solving LeetCode problems daily to strengthen my fundamentals.
 | [0001-two-sum](https://github.com/PurvaSarode03/DSA/tree/master/0001-two-sum) |
 | [0202-happy-number](https://github.com/PurvaSarode03/DSA/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/PurvaSarode03/DSA/tree/master/0217-contains-duplicate) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/PurvaSarode03/DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Math
 |  |
 | ------- |
@@ -111,5 +113,9 @@ Solving LeetCode problems daily to strengthen my fundamentals.
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/PurvaSarode03/DSA/tree/master/0042-trapping-rain-water) |
+## Sliding Window
+|  |
+| ------- |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/PurvaSarode03/DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 <!---LeetCode Topics End-->
 A collection of LeetCode questions to ace the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
