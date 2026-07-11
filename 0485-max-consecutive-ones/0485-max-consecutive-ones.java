@@ -14,6 +14,6 @@ class Solution {
             }
             
         }
-       return Math.max(maxcount ,currentcount);
+       return Math.max(maxcount ,currentcount);//we check again to count the  current  last consecutive ones bcoz in last if 0 is not found then our else logic will not run and it give wrong input
     }
 }
