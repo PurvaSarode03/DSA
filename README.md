@@ -32,6 +32,7 @@ Solving LeetCode problems daily to strengthen my fundamentals.
 | [0283-move-zeroes](https://github.com/PurvaSarode03/DSA/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/PurvaSarode03/DSA/tree/master/0485-max-consecutive-ones) |
 | [0713-subarray-product-less-than-k](https://github.com/PurvaSarode03/DSA/tree/master/0713-subarray-product-less-than-k) |
+| [0904-fruit-into-baskets](https://github.com/PurvaSarode03/DSA/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/PurvaSarode03/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/PurvaSarode03/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1470-shuffle-the-array](https://github.com/PurvaSarode03/DSA/tree/master/1470-shuffle-the-array) |
@@ -56,6 +57,7 @@ Solving LeetCode problems daily to strengthen my fundamentals.
 | [0001-two-sum](https://github.com/PurvaSarode03/DSA/tree/master/0001-two-sum) |
 | [0202-happy-number](https://github.com/PurvaSarode03/DSA/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/PurvaSarode03/DSA/tree/master/0217-contains-duplicate) |
+| [0904-fruit-into-baskets](https://github.com/PurvaSarode03/DSA/tree/master/0904-fruit-into-baskets) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/PurvaSarode03/DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Math
 |  |
@@ -122,6 +124,7 @@ Solving LeetCode problems daily to strengthen my fundamentals.
 |  |
 | ------- |
 | [0713-subarray-product-less-than-k](https://github.com/PurvaSarode03/DSA/tree/master/0713-subarray-product-less-than-k) |
+| [0904-fruit-into-baskets](https://github.com/PurvaSarode03/DSA/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/PurvaSarode03/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/PurvaSarode03/DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Prefix Sum
