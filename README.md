@@ -34,6 +34,7 @@ Solving LeetCode problems daily to strengthen my fundamentals.
 | [0239-sliding-window-maximum](https://github.com/PurvaSarode03/DSA/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/PurvaSarode03/DSA/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/PurvaSarode03/DSA/tree/master/0485-max-consecutive-ones) |
+| [0523-continuous-subarray-sum](https://github.com/PurvaSarode03/DSA/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/PurvaSarode03/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/PurvaSarode03/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/PurvaSarode03/DSA/tree/master/0724-find-pivot-index) |
@@ -65,6 +66,7 @@ Solving LeetCode problems daily to strengthen my fundamentals.
 | [0001-two-sum](https://github.com/PurvaSarode03/DSA/tree/master/0001-two-sum) |
 | [0202-happy-number](https://github.com/PurvaSarode03/DSA/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/PurvaSarode03/DSA/tree/master/0217-contains-duplicate) |
+| [0523-continuous-subarray-sum](https://github.com/PurvaSarode03/DSA/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/PurvaSarode03/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/PurvaSarode03/DSA/tree/master/0904-fruit-into-baskets) |
 | [0992-subarrays-with-k-different-integers](https://github.com/PurvaSarode03/DSA/tree/master/0992-subarrays-with-k-different-integers) |
@@ -78,6 +80,7 @@ Solving LeetCode problems daily to strengthen my fundamentals.
 | [0069-sqrtx](https://github.com/PurvaSarode03/DSA/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/PurvaSarode03/DSA/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/PurvaSarode03/DSA/tree/master/0202-happy-number) |
+| [0523-continuous-subarray-sum](https://github.com/PurvaSarode03/DSA/tree/master/0523-continuous-subarray-sum) |
 ## Two Pointers
 |  |
 | ------- |
@@ -145,6 +148,7 @@ Solving LeetCode problems daily to strengthen my fundamentals.
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/PurvaSarode03/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/PurvaSarode03/DSA/tree/master/0238-product-of-array-except-self) |
+| [0523-continuous-subarray-sum](https://github.com/PurvaSarode03/DSA/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/PurvaSarode03/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/PurvaSarode03/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/PurvaSarode03/DSA/tree/master/0724-find-pivot-index) |
