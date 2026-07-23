@@ -46,6 +46,7 @@ Solving LeetCode problems daily to strengthen my fundamentals.
 | [1470-shuffle-the-array](https://github.com/PurvaSarode03/DSA/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/PurvaSarode03/DSA/tree/master/1929-concatenation-of-array) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/PurvaSarode03/DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/PurvaSarode03/DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -81,6 +82,7 @@ Solving LeetCode problems daily to strengthen my fundamentals.
 | [0189-rotate-array](https://github.com/PurvaSarode03/DSA/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/PurvaSarode03/DSA/tree/master/0202-happy-number) |
 | [0523-continuous-subarray-sum](https://github.com/PurvaSarode03/DSA/tree/master/0523-continuous-subarray-sum) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/PurvaSarode03/DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -104,6 +106,7 @@ Solving LeetCode problems daily to strengthen my fundamentals.
 | ------- |
 | [0067-add-binary](https://github.com/PurvaSarode03/DSA/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/PurvaSarode03/DSA/tree/master/0136-single-number) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/PurvaSarode03/DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Simulation
 |  |
 | ------- |
