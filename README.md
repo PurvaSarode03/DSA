@@ -22,6 +22,7 @@ Solving LeetCode problems daily to strengthen my fundamentals.
 | [0027-remove-element](https://github.com/PurvaSarode03/DSA/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/PurvaSarode03/DSA/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/PurvaSarode03/DSA/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/PurvaSarode03/DSA/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/PurvaSarode03/DSA/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/PurvaSarode03/DSA/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/PurvaSarode03/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -62,6 +63,7 @@ Solving LeetCode problems daily to strengthen my fundamentals.
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/PurvaSarode03/DSA/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/PurvaSarode03/DSA/tree/master/0053-maximum-subarray) |
 ## Hash Table
 |  |
 | ------- |
@@ -118,6 +120,7 @@ Solving LeetCode problems daily to strengthen my fundamentals.
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/PurvaSarode03/DSA/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/PurvaSarode03/DSA/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/PurvaSarode03/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Sorting
 |  |
