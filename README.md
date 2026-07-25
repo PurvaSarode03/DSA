@@ -87,6 +87,7 @@ Solving LeetCode problems daily to strengthen my fundamentals.
 | [0202-happy-number](https://github.com/PurvaSarode03/DSA/tree/master/0202-happy-number) |
 | [0523-continuous-subarray-sum](https://github.com/PurvaSarode03/DSA/tree/master/0523-continuous-subarray-sum) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/PurvaSarode03/DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3536-maximum-product-of-two-digits](https://github.com/PurvaSarode03/DSA/tree/master/3536-maximum-product-of-two-digits) |
 ## Two Pointers
 |  |
 | ------- |
@@ -129,6 +130,7 @@ Solving LeetCode problems daily to strengthen my fundamentals.
 | [0075-sort-colors](https://github.com/PurvaSarode03/DSA/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/PurvaSarode03/DSA/tree/master/0217-contains-duplicate) |
 | [0977-squares-of-a-sorted-array](https://github.com/PurvaSarode03/DSA/tree/master/0977-squares-of-a-sorted-array) |
+| [3536-maximum-product-of-two-digits](https://github.com/PurvaSarode03/DSA/tree/master/3536-maximum-product-of-two-digits) |
 ## Greedy
 |  |
 | ------- |
