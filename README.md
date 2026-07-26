@@ -38,6 +38,7 @@ Solving LeetCode problems daily to strengthen my fundamentals.
 | [0485-max-consecutive-ones](https://github.com/PurvaSarode03/DSA/tree/master/0485-max-consecutive-ones) |
 | [0523-continuous-subarray-sum](https://github.com/PurvaSarode03/DSA/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/PurvaSarode03/DSA/tree/master/0560-subarray-sum-equals-k) |
+| [0628-maximum-product-of-three-numbers](https://github.com/PurvaSarode03/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0713-subarray-product-less-than-k](https://github.com/PurvaSarode03/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/PurvaSarode03/DSA/tree/master/0724-find-pivot-index) |
 | [0904-fruit-into-baskets](https://github.com/PurvaSarode03/DSA/tree/master/0904-fruit-into-baskets) |
@@ -87,6 +88,7 @@ Solving LeetCode problems daily to strengthen my fundamentals.
 | [0189-rotate-array](https://github.com/PurvaSarode03/DSA/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/PurvaSarode03/DSA/tree/master/0202-happy-number) |
 | [0523-continuous-subarray-sum](https://github.com/PurvaSarode03/DSA/tree/master/0523-continuous-subarray-sum) |
+| [0628-maximum-product-of-three-numbers](https://github.com/PurvaSarode03/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/PurvaSarode03/DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/PurvaSarode03/DSA/tree/master/3536-maximum-product-of-two-digits) |
 ## Two Pointers
@@ -131,6 +133,7 @@ Solving LeetCode problems daily to strengthen my fundamentals.
 | [0015-3sum](https://github.com/PurvaSarode03/DSA/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/PurvaSarode03/DSA/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/PurvaSarode03/DSA/tree/master/0217-contains-duplicate) |
+| [0628-maximum-product-of-three-numbers](https://github.com/PurvaSarode03/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/PurvaSarode03/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/PurvaSarode03/DSA/tree/master/3536-maximum-product-of-two-digits) |
 ## Greedy
