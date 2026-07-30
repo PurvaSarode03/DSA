@@ -73,6 +73,7 @@ Solving LeetCode problems daily to strengthen my fundamentals.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/PurvaSarode03/DSA/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/PurvaSarode03/DSA/tree/master/0013-roman-to-integer) |
 | [0202-happy-number](https://github.com/PurvaSarode03/DSA/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/PurvaSarode03/DSA/tree/master/0217-contains-duplicate) |
 | [0523-continuous-subarray-sum](https://github.com/PurvaSarode03/DSA/tree/master/0523-continuous-subarray-sum) |
@@ -85,6 +86,7 @@ Solving LeetCode problems daily to strengthen my fundamentals.
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/PurvaSarode03/DSA/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/PurvaSarode03/DSA/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/PurvaSarode03/DSA/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/PurvaSarode03/DSA/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/PurvaSarode03/DSA/tree/master/0069-sqrtx) |
@@ -111,6 +113,7 @@ Solving LeetCode problems daily to strengthen my fundamentals.
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/PurvaSarode03/DSA/tree/master/0013-roman-to-integer) |
 | [0067-add-binary](https://github.com/PurvaSarode03/DSA/tree/master/0067-add-binary) |
 ## Bit Manipulation
 |  |
