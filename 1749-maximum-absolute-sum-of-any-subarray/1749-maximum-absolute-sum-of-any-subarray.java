@@ -1,32 +1,20 @@
 class Solution {
- public int maxAbsoluteSum(int[] nums) {
-
-        int n = nums.length;
-
-        int currPsum = 0;
-        int maxPsum = Integer.MIN_VALUE;
-
-        int currNsum = 0;
-        int minNsum = Integer.MAX_VALUE;
-
-        for(int i=0; i<n; i++){
-            currPsum += nums[i];
-            maxPsum = Math.max(maxPsum,currPsum);
-
-            if(currPsum < 0){
-                currPsum = 0;
-            }
-        }
-
-        for(int i = 0; i< n ; i++){
-            currNsum += nums[i];
-            minNsum = Math.min(minNsum,currNsum);
-
-            if(currNsum > 0){
-                currNsum = 0;
-            }
-        }
-
-        return Math.max(maxPsum ,Math.abs(minNsum));
- }
+ 
+        public int maxAbsoluteSum(int[] nums) {
+     
+		 int currmax=0;
+		 int maxsum=nums[0];
+		 int currmin=0;
+		 int minsum=nums[0];
+		 
+		 for(int n:nums) {
+			 currmax=Math.max(currmax+n, n);
+			 maxsum=Math.max(maxsum, currmax);
+			 
+			 currmin=Math.min(currmin+n, n);
+			 minsum=Math.min(currmin, minsum);
+			 }
+		 return Math.max(maxsum, Math.abs(minsum));
+	
+	}
 }
