@@ -50,6 +50,7 @@ Solving LeetCode problems daily to strengthen my fundamentals.
 | [1314-matrix-block-sum](https://github.com/PurvaSarode03/DSA/tree/master/1314-matrix-block-sum) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/PurvaSarode03/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/PurvaSarode03/DSA/tree/master/1470-shuffle-the-array) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/PurvaSarode03/DSA/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1929-concatenation-of-array](https://github.com/PurvaSarode03/DSA/tree/master/1929-concatenation-of-array) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/PurvaSarode03/DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/PurvaSarode03/DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -134,6 +135,7 @@ Solving LeetCode problems daily to strengthen my fundamentals.
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/PurvaSarode03/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/PurvaSarode03/DSA/tree/master/0152-maximum-product-subarray) |
 | [0918-maximum-sum-circular-subarray](https://github.com/PurvaSarode03/DSA/tree/master/0918-maximum-sum-circular-subarray) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/PurvaSarode03/DSA/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Sorting
 |  |
 | ------- |
