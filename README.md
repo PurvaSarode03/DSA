@@ -111,6 +111,7 @@ Solving LeetCode problems daily to strengthen my fundamentals.
 | [0189-rotate-array](https://github.com/PurvaSarode03/DSA/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/PurvaSarode03/DSA/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/PurvaSarode03/DSA/tree/master/0283-move-zeroes) |
+| [0344-reverse-string](https://github.com/PurvaSarode03/DSA/tree/master/0344-reverse-string) |
 | [0977-squares-of-a-sorted-array](https://github.com/PurvaSarode03/DSA/tree/master/0977-squares-of-a-sorted-array) |
 ## String
 |  |
@@ -118,6 +119,7 @@ Solving LeetCode problems daily to strengthen my fundamentals.
 | [0013-roman-to-integer](https://github.com/PurvaSarode03/DSA/tree/master/0013-roman-to-integer) |
 | [0067-add-binary](https://github.com/PurvaSarode03/DSA/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/PurvaSarode03/DSA/tree/master/0125-valid-palindrome) |
+| [0344-reverse-string](https://github.com/PurvaSarode03/DSA/tree/master/0344-reverse-string) |
 ## Bit Manipulation
 |  |
 | ------- |
