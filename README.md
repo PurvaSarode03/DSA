@@ -100,6 +100,7 @@ Solving LeetCode problems daily to strengthen my fundamentals.
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/PurvaSarode03/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/PurvaSarode03/DSA/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/PurvaSarode03/DSA/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/PurvaSarode03/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -117,6 +118,7 @@ Solving LeetCode problems daily to strengthen my fundamentals.
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/PurvaSarode03/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0013-roman-to-integer](https://github.com/PurvaSarode03/DSA/tree/master/0013-roman-to-integer) |
 | [0067-add-binary](https://github.com/PurvaSarode03/DSA/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/PurvaSarode03/DSA/tree/master/0125-valid-palindrome) |
@@ -136,6 +138,7 @@ Solving LeetCode problems daily to strengthen my fundamentals.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/PurvaSarode03/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/PurvaSarode03/DSA/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/PurvaSarode03/DSA/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/PurvaSarode03/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -210,5 +213,9 @@ Solving LeetCode problems daily to strengthen my fundamentals.
 |  |
 | ------- |
 | [1314-matrix-block-sum](https://github.com/PurvaSarode03/DSA/tree/master/1314-matrix-block-sum) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/PurvaSarode03/DSA/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
 A collection of LeetCode questions to ace the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
