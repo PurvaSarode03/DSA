@@ -17,6 +17,7 @@ Solving LeetCode problems daily to strengthen my fundamentals.
 | [0001-two-sum](https://github.com/PurvaSarode03/DSA/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/PurvaSarode03/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/PurvaSarode03/DSA/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/PurvaSarode03/DSA/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/PurvaSarode03/DSA/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/PurvaSarode03/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/PurvaSarode03/DSA/tree/master/0027-remove-element) |
@@ -127,6 +128,7 @@ Solving LeetCode problems daily to strengthen my fundamentals.
 | [0003-longest-substring-without-repeating-characters](https://github.com/PurvaSarode03/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/PurvaSarode03/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0013-roman-to-integer](https://github.com/PurvaSarode03/DSA/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/PurvaSarode03/DSA/tree/master/0014-longest-common-prefix) |
 | [0067-add-binary](https://github.com/PurvaSarode03/DSA/tree/master/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/PurvaSarode03/DSA/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/PurvaSarode03/DSA/tree/master/0125-valid-palindrome) |
@@ -233,5 +235,9 @@ Solving LeetCode problems daily to strengthen my fundamentals.
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/PurvaSarode03/DSA/tree/master/0005-longest-palindromic-substring) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/PurvaSarode03/DSA/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
 A collection of LeetCode questions to ace the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
