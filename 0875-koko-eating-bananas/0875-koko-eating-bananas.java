@@ -4,7 +4,7 @@ class Solution {
         int high=0;
         
         for (int num : piles) {
-    high = Math.max(high, num);
+         high = Math.max(high, num);
         }                              
 
         int ans=high;
