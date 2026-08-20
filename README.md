@@ -56,6 +56,7 @@ Solving LeetCode problems daily to strengthen my fundamentals.
 | [0977-squares-of-a-sorted-array](https://github.com/PurvaSarode03/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [0992-subarrays-with-k-different-integers](https://github.com/PurvaSarode03/DSA/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/PurvaSarode03/DSA/tree/master/1004-max-consecutive-ones-iii) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/PurvaSarode03/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1314-matrix-block-sum](https://github.com/PurvaSarode03/DSA/tree/master/1314-matrix-block-sum) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/PurvaSarode03/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/PurvaSarode03/DSA/tree/master/1470-shuffle-the-array) |
@@ -81,6 +82,7 @@ Solving LeetCode problems daily to strengthen my fundamentals.
 | [0744-find-smallest-letter-greater-than-target](https://github.com/PurvaSarode03/DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0875-koko-eating-bananas](https://github.com/PurvaSarode03/DSA/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/PurvaSarode03/DSA/tree/master/1004-max-consecutive-ones-iii) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/PurvaSarode03/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 ## Divide and Conquer
 |  |
 | ------- |
