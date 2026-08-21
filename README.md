@@ -61,6 +61,7 @@ Solving LeetCode problems daily to strengthen my fundamentals.
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/PurvaSarode03/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/PurvaSarode03/DSA/tree/master/1470-shuffle-the-array) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/PurvaSarode03/DSA/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
+| [1870-minimum-speed-to-arrive-on-time](https://github.com/PurvaSarode03/DSA/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [1929-concatenation-of-array](https://github.com/PurvaSarode03/DSA/tree/master/1929-concatenation-of-array) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/PurvaSarode03/DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/PurvaSarode03/DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -83,6 +84,7 @@ Solving LeetCode problems daily to strengthen my fundamentals.
 | [0875-koko-eating-bananas](https://github.com/PurvaSarode03/DSA/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/PurvaSarode03/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/PurvaSarode03/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1870-minimum-speed-to-arrive-on-time](https://github.com/PurvaSarode03/DSA/tree/master/1870-minimum-speed-to-arrive-on-time) |
 ## Divide and Conquer
 |  |
 | ------- |
