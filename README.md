@@ -61,6 +61,7 @@ Solving LeetCode problems daily to strengthen my fundamentals.
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/PurvaSarode03/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/PurvaSarode03/DSA/tree/master/1470-shuffle-the-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/PurvaSarode03/DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1552-magnetic-force-between-two-balls](https://github.com/PurvaSarode03/DSA/tree/master/1552-magnetic-force-between-two-balls) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/PurvaSarode03/DSA/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/PurvaSarode03/DSA/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [1929-concatenation-of-array](https://github.com/PurvaSarode03/DSA/tree/master/1929-concatenation-of-array) |
@@ -86,6 +87,7 @@ Solving LeetCode problems daily to strengthen my fundamentals.
 | [1004-max-consecutive-ones-iii](https://github.com/PurvaSarode03/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/PurvaSarode03/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/PurvaSarode03/DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1552-magnetic-force-between-two-balls](https://github.com/PurvaSarode03/DSA/tree/master/1552-magnetic-force-between-two-balls) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/PurvaSarode03/DSA/tree/master/1870-minimum-speed-to-arrive-on-time) |
 ## Divide and Conquer
 |  |
@@ -191,6 +193,7 @@ Solving LeetCode problems daily to strengthen my fundamentals.
 | [0628-maximum-product-of-three-numbers](https://github.com/PurvaSarode03/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/PurvaSarode03/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/PurvaSarode03/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1552-magnetic-force-between-two-balls](https://github.com/PurvaSarode03/DSA/tree/master/1552-magnetic-force-between-two-balls) |
 | [3536-maximum-product-of-two-digits](https://github.com/PurvaSarode03/DSA/tree/master/3536-maximum-product-of-two-digits) |
 ## Greedy
 |  |
