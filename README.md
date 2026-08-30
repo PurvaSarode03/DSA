@@ -46,6 +46,7 @@ Solving LeetCode problems daily to strengthen my fundamentals.
 | [0410-split-array-largest-sum](https://github.com/PurvaSarode03/DSA/tree/master/0410-split-array-largest-sum) |
 | [0485-max-consecutive-ones](https://github.com/PurvaSarode03/DSA/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/PurvaSarode03/DSA/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/PurvaSarode03/DSA/tree/master/0503-next-greater-element-ii) |
 | [0523-continuous-subarray-sum](https://github.com/PurvaSarode03/DSA/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/PurvaSarode03/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/PurvaSarode03/DSA/tree/master/0628-maximum-product-of-three-numbers) |
@@ -216,11 +217,13 @@ Solving LeetCode problems daily to strengthen my fundamentals.
 | ------- |
 | [0042-trapping-rain-water](https://github.com/PurvaSarode03/DSA/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/PurvaSarode03/DSA/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/PurvaSarode03/DSA/tree/master/0503-next-greater-element-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/PurvaSarode03/DSA/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/PurvaSarode03/DSA/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/PurvaSarode03/DSA/tree/master/0503-next-greater-element-ii) |
 ## Sliding Window
 |  |
 | ------- |
