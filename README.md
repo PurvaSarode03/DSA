@@ -30,6 +30,7 @@ Solving LeetCode problems daily to strengthen my fundamentals.
 | [0074-search-a-2d-matrix](https://github.com/PurvaSarode03/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/PurvaSarode03/DSA/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/PurvaSarode03/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0084-largest-rectangle-in-histogram](https://github.com/PurvaSarode03/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/PurvaSarode03/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/PurvaSarode03/DSA/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/PurvaSarode03/DSA/tree/master/0152-maximum-product-subarray) |
@@ -219,6 +220,7 @@ Solving LeetCode problems daily to strengthen my fundamentals.
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/PurvaSarode03/DSA/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/PurvaSarode03/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/PurvaSarode03/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/PurvaSarode03/DSA/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/PurvaSarode03/DSA/tree/master/0735-asteroid-collision) |
@@ -228,6 +230,7 @@ Solving LeetCode problems daily to strengthen my fundamentals.
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/PurvaSarode03/DSA/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/PurvaSarode03/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/PurvaSarode03/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/PurvaSarode03/DSA/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/PurvaSarode03/DSA/tree/master/0739-daily-temperatures) |
@@ -304,5 +307,9 @@ Solving LeetCode problems daily to strengthen my fundamentals.
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/PurvaSarode03/DSA/tree/master/0901-online-stock-span) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/PurvaSarode03/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
 A collection of LeetCode questions to ace the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
