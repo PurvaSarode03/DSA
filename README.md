@@ -176,6 +176,7 @@ Solving LeetCode problems daily to strengthen my fundamentals.
 | [0125-valid-palindrome](https://github.com/PurvaSarode03/DSA/tree/master/0125-valid-palindrome) |
 | [0227-basic-calculator-ii](https://github.com/PurvaSarode03/DSA/tree/master/0227-basic-calculator-ii) |
 | [0344-reverse-string](https://github.com/PurvaSarode03/DSA/tree/master/0344-reverse-string) |
+| [0394-decode-string](https://github.com/PurvaSarode03/DSA/tree/master/0394-decode-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/PurvaSarode03/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/PurvaSarode03/DSA/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/PurvaSarode03/DSA/tree/master/0647-palindromic-substrings) |
@@ -230,6 +231,7 @@ Solving LeetCode problems daily to strengthen my fundamentals.
 | [0085-maximal-rectangle](https://github.com/PurvaSarode03/DSA/tree/master/0085-maximal-rectangle) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/PurvaSarode03/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0227-basic-calculator-ii](https://github.com/PurvaSarode03/DSA/tree/master/0227-basic-calculator-ii) |
+| [0394-decode-string](https://github.com/PurvaSarode03/DSA/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/PurvaSarode03/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/PurvaSarode03/DSA/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/PurvaSarode03/DSA/tree/master/0735-asteroid-collision) |
@@ -322,5 +324,9 @@ Solving LeetCode problems daily to strengthen my fundamentals.
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/PurvaSarode03/DSA/tree/master/0084-largest-rectangle-in-histogram) |
+## Recursion
+|  |
+| ------- |
+| [0394-decode-string](https://github.com/PurvaSarode03/DSA/tree/master/0394-decode-string) |
 <!---LeetCode Topics End-->
 A collection of LeetCode questions to ace the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
