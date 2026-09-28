@@ -183,6 +183,7 @@ Solving LeetCode problems daily to strengthen my fundamentals.
 | [0647-palindromic-substrings](https://github.com/PurvaSarode03/DSA/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/PurvaSarode03/DSA/tree/master/0680-valid-palindrome-ii) |
 | [0844-backspace-string-compare](https://github.com/PurvaSarode03/DSA/tree/master/0844-backspace-string-compare) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/PurvaSarode03/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -241,6 +242,7 @@ Solving LeetCode problems daily to strengthen my fundamentals.
 | [0739-daily-temperatures](https://github.com/PurvaSarode03/DSA/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/PurvaSarode03/DSA/tree/master/0844-backspace-string-compare) |
 | [0901-online-stock-span](https://github.com/PurvaSarode03/DSA/tree/master/0901-online-stock-span) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/PurvaSarode03/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Monotonic Stack
 |  |
 | ------- |
