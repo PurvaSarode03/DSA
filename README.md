@@ -184,6 +184,7 @@ Solving LeetCode problems daily to strengthen my fundamentals.
 | [0680-valid-palindrome-ii](https://github.com/PurvaSarode03/DSA/tree/master/0680-valid-palindrome-ii) |
 | [0844-backspace-string-compare](https://github.com/PurvaSarode03/DSA/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/PurvaSarode03/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1544-make-the-string-great](https://github.com/PurvaSarode03/DSA/tree/master/1544-make-the-string-great) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -243,6 +244,7 @@ Solving LeetCode problems daily to strengthen my fundamentals.
 | [0844-backspace-string-compare](https://github.com/PurvaSarode03/DSA/tree/master/0844-backspace-string-compare) |
 | [0901-online-stock-span](https://github.com/PurvaSarode03/DSA/tree/master/0901-online-stock-span) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/PurvaSarode03/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1544-make-the-string-great](https://github.com/PurvaSarode03/DSA/tree/master/1544-make-the-string-great) |
 ## Monotonic Stack
 |  |
 | ------- |
