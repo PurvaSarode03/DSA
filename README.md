@@ -185,6 +185,7 @@ Solving LeetCode problems daily to strengthen my fundamentals.
 | [0844-backspace-string-compare](https://github.com/PurvaSarode03/DSA/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/PurvaSarode03/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1544-make-the-string-great](https://github.com/PurvaSarode03/DSA/tree/master/1544-make-the-string-great) |
+| [2696-minimum-string-length-after-removing-substrings](https://github.com/PurvaSarode03/DSA/tree/master/2696-minimum-string-length-after-removing-substrings) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -198,6 +199,7 @@ Solving LeetCode problems daily to strengthen my fundamentals.
 | [0735-asteroid-collision](https://github.com/PurvaSarode03/DSA/tree/master/0735-asteroid-collision) |
 | [0844-backspace-string-compare](https://github.com/PurvaSarode03/DSA/tree/master/0844-backspace-string-compare) |
 | [1929-concatenation-of-array](https://github.com/PurvaSarode03/DSA/tree/master/1929-concatenation-of-array) |
+| [2696-minimum-string-length-after-removing-substrings](https://github.com/PurvaSarode03/DSA/tree/master/2696-minimum-string-length-after-removing-substrings) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -245,6 +247,7 @@ Solving LeetCode problems daily to strengthen my fundamentals.
 | [0901-online-stock-span](https://github.com/PurvaSarode03/DSA/tree/master/0901-online-stock-span) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/PurvaSarode03/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1544-make-the-string-great](https://github.com/PurvaSarode03/DSA/tree/master/1544-make-the-string-great) |
+| [2696-minimum-string-length-after-removing-substrings](https://github.com/PurvaSarode03/DSA/tree/master/2696-minimum-string-length-after-removing-substrings) |
 ## Monotonic Stack
 |  |
 | ------- |
