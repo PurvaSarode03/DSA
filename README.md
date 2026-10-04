@@ -173,6 +173,7 @@ Solving LeetCode problems daily to strengthen my fundamentals.
 | [0013-roman-to-integer](https://github.com/PurvaSarode03/DSA/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/PurvaSarode03/DSA/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/PurvaSarode03/DSA/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/PurvaSarode03/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0067-add-binary](https://github.com/PurvaSarode03/DSA/tree/master/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/PurvaSarode03/DSA/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/PurvaSarode03/DSA/tree/master/0125-valid-palindrome) |
@@ -206,6 +207,7 @@ Solving LeetCode problems daily to strengthen my fundamentals.
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/PurvaSarode03/DSA/tree/master/0005-longest-palindromic-substring) |
+| [0032-longest-valid-parentheses](https://github.com/PurvaSarode03/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/PurvaSarode03/DSA/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/PurvaSarode03/DSA/tree/master/0053-maximum-subarray) |
 | [0085-maximal-rectangle](https://github.com/PurvaSarode03/DSA/tree/master/0085-maximal-rectangle) |
@@ -237,6 +239,7 @@ Solving LeetCode problems daily to strengthen my fundamentals.
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/PurvaSarode03/DSA/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/PurvaSarode03/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/PurvaSarode03/DSA/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/PurvaSarode03/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/PurvaSarode03/DSA/tree/master/0085-maximal-rectangle) |
@@ -348,6 +351,7 @@ Solving LeetCode problems daily to strengthen my fundamentals.
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/PurvaSarode03/DSA/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/PurvaSarode03/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/PurvaSarode03/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 <!---LeetCode Topics End-->
 A collection of LeetCode questions to ace the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
