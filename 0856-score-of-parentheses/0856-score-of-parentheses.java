@@ -16,10 +16,7 @@ class Solution {
                score+=1<<count;
             }
             } 
-            
-
-             
-        }
+    }
         return score;
     }
 }
