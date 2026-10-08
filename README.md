@@ -247,6 +247,7 @@ Solving LeetCode problems daily to strengthen my fundamentals.
 | [0150-evaluate-reverse-polish-notation](https://github.com/PurvaSarode03/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/PurvaSarode03/DSA/tree/master/0155-min-stack) |
 | [0227-basic-calculator-ii](https://github.com/PurvaSarode03/DSA/tree/master/0227-basic-calculator-ii) |
+| [0232-implement-queue-using-stacks](https://github.com/PurvaSarode03/DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0394-decode-string](https://github.com/PurvaSarode03/DSA/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/PurvaSarode03/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/PurvaSarode03/DSA/tree/master/0503-next-greater-element-ii) |
@@ -299,6 +300,7 @@ Solving LeetCode problems daily to strengthen my fundamentals.
 ## Queue
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/PurvaSarode03/DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/PurvaSarode03/DSA/tree/master/0239-sliding-window-maximum) |
 | [0918-maximum-sum-circular-subarray](https://github.com/PurvaSarode03/DSA/tree/master/0918-maximum-sum-circular-subarray) |
 ## Heap (Priority Queue)
@@ -338,6 +340,7 @@ Solving LeetCode problems daily to strengthen my fundamentals.
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/PurvaSarode03/DSA/tree/master/0155-min-stack) |
+| [0232-implement-queue-using-stacks](https://github.com/PurvaSarode03/DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0901-online-stock-span](https://github.com/PurvaSarode03/DSA/tree/master/0901-online-stock-span) |
 ## Data Stream
 |  |
