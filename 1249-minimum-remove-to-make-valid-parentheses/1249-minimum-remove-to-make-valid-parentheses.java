@@ -16,6 +16,7 @@ class Solution {
             first.append(ch);
         }
        }
+       //removes extra opening brackets
 
        StringBuilder ans = new StringBuilder();
        int close=0;
